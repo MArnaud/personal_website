@@ -9,7 +9,7 @@
 		padding: 0px;
 		background: #202020;
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 10pt;
+		font-size: 12pt;
 		font-weight: 300;
 		color: #444444;
 	}
@@ -581,13 +581,13 @@ p.forma-one-line-pu-r {
 margin-bottom : 1px;
 }
 p.forma-two-line-pu-l {
-margin-bottom : 30px;
+margin-bottom : 32px;
 }
 p.forma-two-line-pu-r {
 margin-bottom : 1px;
 }
 p.forma-three-line-pu-l {
-margin-bottom : 68px;
+margin-bottom : 72px;
 }
 p.forma-three-line-pu-r {
 margin-bottom : 10px;
@@ -653,7 +653,7 @@ h2{
 }
 .job_title{
 	font-weight : bold;
-	font-size : 16px;
+	font-size : 14px;
 }
 .duree{
 	font-weight : normal;
@@ -683,22 +683,22 @@ line-height: 30px;
 /**************************************************************************/
 /*left section */
 p.forma-one-line-ed-l {
-margin-bottom : 1px;
+margin-bottom :2px;
 }
 p.forma-two-line-ed-l {
-margin-bottom : 30px;
+margin-bottom : 28px;
 }
 p.forma-three-line-ed-l {
-margin-bottom : 58px;
+margin-bottom : 30px;
 }
 p.forma-four-line-ed-l {
-margin-bottom : 90px;
+margin-bottom : 95px;
 }
 p.forma-five-line-ed-l {
-margin-bottom : 97px;
+margin-bottom : 103px;
 }
 p.forma-nine-line-ed-l {
-margin-bottom : 182px;
+margin-bottom : 188px;
 }
 
 
@@ -736,16 +736,16 @@ p.forma-two-line-exp-l {
 margin-bottom : 28px;
 }
 p.forma-three-line-exp-l {
-margin-bottom : 30px;
+margin-bottom : 45px;
 }
 p.forma-four-line-exp-l {
-margin-bottom : 70px;
+margin-bottom : 67px;
 }
 p.forma-five-line-exp-l {
-margin-bottom : 88px;
+margin-bottom : 97px;
 }
 p.forma-six-line-exp-l {
-margin-bottom : 115px;
+margin-bottom : 85px;
 }
 
 p.forma-one-line-exp-r {
@@ -788,7 +788,20 @@ p.forma-three-line-sp-r {
 margin-bottom : 1px;
 }
 
+/**************************************************************************/
+/****                           RESEARCH PROJECT                       ****/
+/**************************************************************************/
 
+img.forma-im {
+margin-bottom : 1px;
+}
 
+#hpr  {
+float: right;    
+ margin: 0 0 0 15px;
+}
 
-
+#hpl  {
+float: left;    
+ margin: 0 0 0 15px;
+}
